@@ -1,0 +1,3 @@
+read n
+ls $n*
+
